@@ -1,0 +1,12 @@
+.item {
+  border-radius: 5px;
+  background: rgba(131, 130, 130, 0.167);
+}
+
+.btn-input {
+  color: rgba(255, 255, 255, 0.865) !important;
+
+  &:hover {
+    color: white !important;
+  }
+}
